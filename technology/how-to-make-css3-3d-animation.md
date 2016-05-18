@@ -202,14 +202,14 @@ html 为6个相同的div
 
 这里用到了transform的两个属性 rotate  和 origin，前者是定义旋转角度，后者是定义旋转的轴。下面的图可以比较明确的看出来这两个属性的用法。
 
-![rotate和origin在transform属性里面的用法](http://imgchr.com/transform.png)
+![rotate和origin在transform属性里面的用法](http://imgchr.com/images/transform.png)
 
 [点击这里](/static/demo/css3-demo/css3-transform.html) 可以查看上面图片的代码
 
 
 按照上述代码来写，我们现在已经可以看见一个正方体了，如图：
 
-![css3实现的正方体](http://imgchr.com/css3-3d-demo.png)
+![css3实现的正方体](http://imgchr.com/images/css3-3d-demo.png)
 
 现在已经实现了一大部分代码的书写了，我们已经写出了一个静态的正方体，接下来让他实现一个转起来的动画就可以了。
 
@@ -348,18 +348,3 @@ animation 是一个复合属性，同样我们来看下这个复合属性的各�
 最后附上完整的例子，大家可以参考哦~
 
 [点我查看旋转的正方体](/static/demo/css3-demo/css3-3d-square.html) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
